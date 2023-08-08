@@ -23,3 +23,7 @@ Hello! I'm **Agung**, a seasoned web developer with over 4 years of professional
 In my journey as a web developer, I've fostered a deep commitment to delivering solutions that stand at the intersection of innovation and user-centric design. My passion for continuous learning keeps me on the cutting edge of industry trends, ensuring that I bring the best practices and technologies to every project.
 
 Feel free to connect with me if you'd like to explore how my skills and experience can contribute to your projects and bring your ideas to life!
+
+[![Linkedin: Agung](https://img.shields.io/badge/-Agung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agungtrilaksono/)](https://www.linkedin.com/in/agungtrilaksono/)
+[![GitHub Agung](https://img.shields.io/github/followers/agungtri222?label=follow&style=social)](https://github.com/agungtri222)
+![Twitter Follow](https://img.shields.io/twitter/follow/agungtri222?style=social)
